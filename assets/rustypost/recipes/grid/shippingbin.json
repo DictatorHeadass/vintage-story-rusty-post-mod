@@ -1,0 +1,19 @@
+{
+  "ingredientPattern": "WWW,WNW,WWW",
+  "width": 3,
+  "height": 3,
+  "ingredients": {
+    "W": {
+      "type": "item",
+      "code": "game:plank-*"
+    },
+    "N": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-copper"
+    }
+  },
+  "output": {
+    "type": "block",
+    "code": "rustypost:shippingbin"
+  }
+}

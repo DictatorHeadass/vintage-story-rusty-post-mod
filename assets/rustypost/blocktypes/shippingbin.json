@@ -1,0 +1,55 @@
+{
+  "code": "shippingbin",
+  "class": "RustyPostBlock",
+  "entityClass": "RustyPostEntity",
+  "drawtype": "json",
+  "shape": {
+    "base": "rustypost:block/shippingbin"
+  },
+  "textures": {
+    "wood": {
+      "base": "rustypost:block/postwood"
+    },
+    "iron": {
+      "base": "rustypost:block/postiron"
+    }
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "decorative": [
+      "*"
+    ]
+  },
+  "blockmaterial": "Wood",
+  "resistance": 2,
+  "lightAbsorption": 1,
+  "maxStackSize": 1,
+  "sideSolid": {
+    "all": false
+  },
+  "sideOpaque": {
+    "all": false
+  },
+  "collisionbox": {
+    "x1": 0.0625,
+    "y1": 0,
+    "z1": 0.0625,
+    "x2": 0.9375,
+    "y2": 1,
+    "z2": 0.9375
+  },
+  "selectionbox": {
+    "x1": 0.03125,
+    "y1": 0,
+    "z1": 0.03125,
+    "x2": 0.96875,
+    "y2": 1,
+    "z2": 0.96875
+  },
+  "sounds": {
+    "place": "game:block/planks",
+    "break": "game:block/planks"
+  }
+}
