@@ -1,0 +1,1 @@
+{"type":"code","modid":"rustypost","name":"Rusty Post","authors":["VSMod"],"version":"0.1.0","description":"Craftable shipping bins, personal mailboxes and next-day rusty gear payments.","side":"Universal","requiredOnClient":true,"requiredOnServer":true,"dependencies":{"game":"1.22.7","survival":"","vsuxframework":"0.1.12"}}

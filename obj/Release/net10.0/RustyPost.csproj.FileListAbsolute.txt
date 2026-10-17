@@ -1,0 +1,12 @@
+F:\VSMod\rustypost\bin\Release\net10.0\RustyPost.deps.json
+F:\VSMod\rustypost\bin\Release\net10.0\RustyPost.dll
+F:\VSMod\rustypost\bin\Release\net10.0\RustyPost.pdb
+F:\VSMod\rustypost\obj\Release\net10.0\RustyPost.csproj.AssemblyReference.cache
+F:\VSMod\rustypost\obj\Release\net10.0\RustyPost.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSMod\rustypost\obj\Release\net10.0\RustyPost.AssemblyInfoInputs.cache
+F:\VSMod\rustypost\obj\Release\net10.0\RustyPost.AssemblyInfo.cs
+F:\VSMod\rustypost\obj\Release\net10.0\RustyPost.csproj.CoreCompileInputs.cache
+F:\VSMod\rustypost\obj\Release\net10.0\RustyPost.dll
+F:\VSMod\rustypost\obj\Release\net10.0\refint\RustyPost.dll
+F:\VSMod\rustypost\obj\Release\net10.0\RustyPost.pdb
+F:\VSMod\rustypost\obj\Release\net10.0\ref\RustyPost.dll
